@@ -4,24 +4,84 @@
 
 The Hotel Management System automates hotel operations, including reservations, check-ins/outs, room management, and billing. It enhances efficiency by allowing real-time access to room availability and guest information, reducing manual effort for hotel staff.
 
-**OOP Concepts**
-1. Classes & Objects: Classes like Sign-In, Manage Room, and Payment handle operations with instantiated objects.
-2. Encapsulation: Methods and data are hidden within classes using access modifiers.
-3. Inheritance & Polymorphism: Reuse common properties with inheritance, and method overriding allows flexibility in different classes.
-4. Abstraction & Association: Simplify complex entities into classes with relationships between them (e.g., Main class and CustomerCheckin).
-   
-**Features**
-1. Room Management: Manage room types, rates, and availability.
-2. Reservations: Handle bookings and pricing.
-3. Check-In/Check-Out: Assign rooms and update availability.
-4. Billing: Generate guest bills and process payments.
-5. Security: User authentication and access control for data protection.
-   
-**Technologies Used**
+Got it — you want your **Hotel Management System** description in the **same template style** as "LearnMate," but it should still be **brief and within project template format**.  
+Here’s your project written in that style:
 
-Java: Core language used for implementing logic and OOP concepts.
-SQL: Database for storing hotel data, including reservations, guest information, and billing records.
+---
 
+# 🏨 Hotel Management System
+
+Stars | Forks | License | Issues
+
+The **Hotel Management System** is a Java-based desktop application designed to streamline hotel operations like room bookings, guest management, billing, and reporting. Developed for the **Object-Oriented Programming** course (Fall 2022), it leverages Java Swing for the interface and MySQL for backend storage.
+
+---
+
+## 🚀 Features
+
+### 🔑 User Authentication
+- Secure Sign Up and Sign In functionality
+- Personal account creation and validation
+
+### 🛏️ Room Management
+- Add, update, delete room records
+- Assign available rooms to guests
+
+### 🧳 Guest Management
+- Guest registration, updates
+- Check-in and check-out handling
+
+### 📅 Reservation Management
+- Manage bookings with room availability checking
+- Modify or cancel reservations
+
+### 💵 Billing and Invoicing
+- Generate bills and invoices
+- Calculate room charges, extra services, taxes
+
+### 📈 Reporting
+- Generate reports for occupancy, revenue, guest feedback
+
+---
+
+## 🛠️ Technology Stack
+
+- **Backend:** Java (OOP concepts: classes, inheritance, polymorphism)
+- **Frontend:** Java Swing (GUI)
+- **Database:** MySQL
+- **IDE:** NetBeans
+
+---
+
+## 📄 Class Overview
+
+- SignIn, SignUp  
+- RoomInformation, GuestInformation  
+- Reservation, CheckIn, CheckOut  
+- Billing/Payment, Report  
+- Menu (Food Items)
+
+---
+
+## 🛠️ Installation Steps
+
+```bash
+# 1. Install Java and MySQL
+# 2. Set up the MySQL database and tables
+# 3. Open the project in NetBeans
+# 4. Build and run the project
+```
+
+---
+
+## 📫 Contact
+
+**Group Members:**  
+- Sarah Qasim 
+- Humna Ahmed 
+- Hajra Imran 
+- Mahnoor Muzaffar 
+- 
 **Interfaces**
 
 ![image](https://github.com/user-attachments/assets/f2fcb6ff-df58-4a90-a46a-85029591950b)
