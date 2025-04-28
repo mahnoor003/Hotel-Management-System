@@ -1,14 +1,5 @@
 **Hotel Management System**
 
-**Introduction**
-
-The Hotel Management System automates hotel operations, including reservations, check-ins/outs, room management, and billing. It enhances efficiency by allowing real-time access to room availability and guest information, reducing manual effort for hotel staff.
-
-Got it — you want your **Hotel Management System** description in the **same template style** as "LearnMate," but it should still be **brief and within project template format**.  
-Here’s your project written in that style:
-
----
-
 # 🏨 Hotel Management System
 
 Stars | Forks | License | Issues
